@@ -8,5 +8,5 @@ print(r.status_code)
 print(r.text)
 #print(dir(r))
 
-a = requests.get()
-print(a.text)
+#a = requests.get()
+#print(a.text)
